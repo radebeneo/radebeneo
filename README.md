@@ -18,7 +18,7 @@ Hi, I'm Neo, a Junior Data Scientist and aspiring Software Engineer with passion
 
 ## Contact Me
 - 📧 Email: radebeneo17@gmail.com
-- 🌐 LinkedIn: [[LinkedIn URL]](https://www.linkedin.com/in/radebeneo/)
+- 🌐 LinkedIn:(https://www.linkedin.com/in/radebeneo/)
 
 Thanks for visiting my GitHub profile! Feel free to reach out if you have any questions or just want to connect. 😊
 
